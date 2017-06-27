@@ -2,3 +2,5 @@
 # Avoid dependencies in production that
 # aren't in development.
 -r base.txt
+
+google-compute-engine==2.4.0
